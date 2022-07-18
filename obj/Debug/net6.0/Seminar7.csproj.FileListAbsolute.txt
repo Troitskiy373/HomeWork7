@@ -1,0 +1,15 @@
+C:\Users\Кира\Desktop\Учеба\Myseminars\Seminar7\Seminar7\bin\Debug\net6.0\Seminar7.exe
+C:\Users\Кира\Desktop\Учеба\Myseminars\Seminar7\Seminar7\bin\Debug\net6.0\Seminar7.deps.json
+C:\Users\Кира\Desktop\Учеба\Myseminars\Seminar7\Seminar7\bin\Debug\net6.0\Seminar7.runtimeconfig.json
+C:\Users\Кира\Desktop\Учеба\Myseminars\Seminar7\Seminar7\bin\Debug\net6.0\Seminar7.dll
+C:\Users\Кира\Desktop\Учеба\Myseminars\Seminar7\Seminar7\bin\Debug\net6.0\Seminar7.pdb
+C:\Users\Кира\Desktop\Учеба\Myseminars\Seminar7\Seminar7\obj\Debug\net6.0\Seminar7.csproj.AssemblyReference.cache
+C:\Users\Кира\Desktop\Учеба\Myseminars\Seminar7\Seminar7\obj\Debug\net6.0\Seminar7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кира\Desktop\Учеба\Myseminars\Seminar7\Seminar7\obj\Debug\net6.0\Seminar7.AssemblyInfoInputs.cache
+C:\Users\Кира\Desktop\Учеба\Myseminars\Seminar7\Seminar7\obj\Debug\net6.0\Seminar7.AssemblyInfo.cs
+C:\Users\Кира\Desktop\Учеба\Myseminars\Seminar7\Seminar7\obj\Debug\net6.0\Seminar7.csproj.CoreCompileInputs.cache
+C:\Users\Кира\Desktop\Учеба\Myseminars\Seminar7\Seminar7\obj\Debug\net6.0\Seminar7.dll
+C:\Users\Кира\Desktop\Учеба\Myseminars\Seminar7\Seminar7\obj\Debug\net6.0\refint\Seminar7.dll
+C:\Users\Кира\Desktop\Учеба\Myseminars\Seminar7\Seminar7\obj\Debug\net6.0\Seminar7.pdb
+C:\Users\Кира\Desktop\Учеба\Myseminars\Seminar7\Seminar7\obj\Debug\net6.0\Seminar7.genruntimeconfig.cache
+C:\Users\Кира\Desktop\Учеба\Myseminars\Seminar7\Seminar7\obj\Debug\net6.0\ref\Seminar7.dll
